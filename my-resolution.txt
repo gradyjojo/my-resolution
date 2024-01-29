@@ -3,3 +3,4 @@ My Resolution
 - Beriringan dengan belajar, saya juga ingin membuat web application gym training sebagai bahan penulisan ilmiah saya.
 - Di tahun ini saya juga ingin mulai magang di semester 7 baik melalui program MSIB atau bersama dosen.
 - Setelah mampu mempelajari fullstack web development, saya juga ingin mempelajari data analytics.
+- Setelah itu saya ingin mempelajari machine learning, agar bisa meranah ke data science.
